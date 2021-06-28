@@ -1,0 +1,25 @@
+.cid-svGk7t35bZ{
+    background-image: url("../../images/1604640364161.jpg");
+}
+
+.cid-svGmi5Utma{
+    background-color: #FFD200;
+}
+
+.mbr-text{
+    color: #022539;
+}
+
+.flex-glowing-custom{
+    flex-grow: 1;
+    height:max-content;
+    max-height: max-content;
+}
+@media (min-width: 992px){
+    .cid-svGmZMpuYK .col-lg-3{
+        max-width: 30%;
+        flex: 1 0 30%;
+        height: 100%;
+        max-height: 100%;
+    }
+}
